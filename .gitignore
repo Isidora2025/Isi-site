@@ -1,0 +1,7 @@
+# .gitignore
+*.log
+*.cache
+*.db
+*.idx
+snap/firefox/common/.cache/
+snap/firefox/common/.mozilla/firefox/yorvb24f.default/
